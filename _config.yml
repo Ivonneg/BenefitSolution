@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: HrbSolutionsInc.
+=======
+title: Benefit Solution
+>>>>>>> origin/master
 timezone: UTC
 collections:
   posts:
@@ -8,6 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+<<<<<<< HEAD
 defaults:
 - scope:
     path: ''
@@ -21,3 +26,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+=======
+>>>>>>> origin/master
