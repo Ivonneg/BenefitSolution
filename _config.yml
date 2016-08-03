@@ -1,17 +1,6 @@
----
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 title: HrbSolutionsInc.
-=======
-title: Benefit Solution
->>>>>>> origin/master
-=======
-title: HrbSolutionsInc.
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
-=======
-title: HrbSolutionsInc.
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
+
 timezone: UTC
 collections:
   posts:
@@ -20,13 +9,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
-=======
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
+
 defaults:
 - scope:
     path: ''
@@ -40,11 +23,3 @@ defaults:
   values:
     layout: page
 permalink: pretty
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
-=======
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
-=======
->>>>>>> d92036c45fa03cf8407e86f00afa90a5b40e700a
